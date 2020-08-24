@@ -1,3 +1,6 @@
+// A calculator using Html, css, JS
+// By: Aryan Chavan
+
 let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
 let screenValue = '';
